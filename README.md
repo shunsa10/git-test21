@@ -1,3 +1,3 @@
 # CUI の git
 
-２つ目のコミット
+新しいreame.md
